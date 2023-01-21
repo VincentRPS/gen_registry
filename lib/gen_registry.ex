@@ -61,7 +61,7 @@ defmodule GenRegistry do
   end
 
   @doc """
-  Lookup a running a process.
+  Lookup a running process.
 
   This is a fast path to the ETS table.
   """
